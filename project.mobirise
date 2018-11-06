@@ -41,8 +41,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "GottaGotchi",
+        "meta_descr": "The Nineties Store - COMING SOON.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
